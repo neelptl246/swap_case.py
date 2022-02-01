@@ -1,0 +1,7 @@
+
+
+
+val = input("Enter your value: ")
+
+print("This is swap case:")
+print(val.swapcase())
